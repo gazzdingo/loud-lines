@@ -3,7 +3,7 @@
 loud Lines is a vending machine that will generate and unique random prints that is built on top of Nodejs And Paperjs.
 
 ## requirements
-  -  [node.js] evented I/O for the backend
+  -  [node.js](http://nodejs.org) evented I/O for the backend
   - [Paperjs](http://paperjs.org) creates the art and outputs the images to the correct format
   - [raspberry pi](http://raspberrypi.org) (optinal) for running the system on
   - printer (optinal) for printing the images
